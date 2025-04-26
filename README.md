@@ -1,4 +1,4 @@
-# Considerations: I'm still completting the tests
+# Considerations: I'm still working on the tests
 
 # My Vault Program
 
